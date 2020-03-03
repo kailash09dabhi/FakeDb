@@ -1,21 +1,4 @@
 {
-	"links": [{
-		"rel": "first",
-		"href": "http://localhost:8306/messaging-service/getAllDistributionList?page=1&size=10",
-		"hreflang": null,
-		"media": null,
-		"title": null,
-		"type": null,
-		"deprecation": null
-	}, {
-		"rel": "last",
-		"href": "http://localhost:8306/messaging-service/getAllDistributionList?page=3&size=10",
-		"hreflang": null,
-		"media": null,
-		"title": null,
-		"type": null,
-		"deprecation": null
-	}],
 	"content": [{
 		"id": "a83df3f2-5505-4da7-8cd7-b5944598a41f",
 		"type": "PUBLIC",
@@ -38,8 +21,7 @@
 			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
 			"cabin": "10132",
 			"cabinLocation": "deck 4"
-		}],
-		"links": []
+		}]
 	}, {
 		"id": "8427e4d7-8928-4b2e-a466-307c28150cc1",
 		"type": "PUBLIC",
@@ -62,8 +44,7 @@
 			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
 			"cabin": "10132",
 			"cabinLocation": "deck 4"
-		}],
-		"links": []
+		}]
 	}, {
 		"id": "6703d23a-eed1-4b20-82e1-b364e6fbe71a",
 		"type": "PUBLIC",
@@ -86,8 +67,7 @@
 			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
 			"cabin": "10132",
 			"cabinLocation": "deck 4"
-		}],
-		"links": []
+		}]
 	}, {
 		"id": "9db41685-75eb-4039-b616-3a018e2f201c",
 		"type": "PRIVATE",
@@ -110,8 +90,7 @@
 			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
 			"cabin": "10132",
 			"cabinLocation": "deck 4"
-		}],
-		"links": []
+		}]
 	}, {
 		"id": "9826685c-134e-47ea-86bb-7b2b89e760d4",
 		"type": null,
@@ -127,8 +106,7 @@
 				"cabinLocation": "deck1",
 				"cabin": ["1205A", "1205B"]
 			}]
-		},
-		"links": []
+		}
 	}],
 	"page": {
 		"size": 10,
