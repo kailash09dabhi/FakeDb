@@ -1,0 +1,117 @@
+{
+	"content": [{
+		"id": "a83df3f2-5505-4da7-8cd7-b5944598a41f",
+		"type": "PUBLIC",
+		"name": "Test3",
+		"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+		"filter": {
+			"type": ["all"],
+			"boardingTime": [{
+				"startTime": 1581699000,
+				"endTime": 1581697000
+			}],
+			"cabin": [{
+				"cabinLocation": "deck1",
+				"cabin": ["1205A", "1205B"]
+			}]
+		},
+		"members": [{
+			"id": "e59a2f65-5ebd-49ff-8794-13a39f0b448a",
+			"recipientTypeId": null,
+			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
+			"cabin": "10132",
+			"cabinLocation": "deck 4"
+		}]
+	}, {
+		"id": "8427e4d7-8928-4b2e-a466-307c28150cc1",
+		"type": "PUBLIC",
+		"name": "Test3",
+		"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+		"filter": {
+			"type": ["all"],
+			"boardingTime": [{
+				"startTime": 1581699000,
+				"endTime": 1581697000
+			}],
+			"cabin": [{
+				"cabinLocation": "deck1",
+				"cabin": ["1205A", "1205B"]
+			}]
+		},
+		"members": [{
+			"id": "7d1860b4-340b-4e9b-a769-795f7e590749",
+			"recipientTypeId": null,
+			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
+			"cabin": "10132",
+			"cabinLocation": "deck 4"
+		}]
+	}, {
+		"id": "6703d23a-eed1-4b20-82e1-b364e6fbe71a",
+		"type": "PUBLIC",
+		"name": "Test44",
+		"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+		"filter": {
+			"type": ["all"],
+			"boardingTime": [{
+				"startTime": 1581699000,
+				"endTime": 1581697000
+			}],
+			"cabin": [{
+				"cabinLocation": "deck1",
+				"cabin": ["1205A", "1205B"]
+			}]
+		},
+		"members": [{
+			"id": "a45cda06-436e-4dbe-b9f6-0cd582573dbc",
+			"recipientTypeId": null,
+			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
+			"cabin": "10132",
+			"cabinLocation": "deck 4"
+		}]
+	}, {
+		"id": "9db41685-75eb-4039-b616-3a018e2f201c",
+		"type": "PRIVATE",
+		"name": "Test3",
+		"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+		"filter": {
+			"type": ["all"],
+			"boardingTime": [{
+				"startTime": 1581699000,
+				"endTime": 1581697000
+			}],
+			"cabin": [{
+				"cabinLocation": "deck1",
+				"cabin": ["1205A", "1205B"]
+			}]
+		},
+		"members": [{
+			"id": "2beaa8b1-e982-4aaf-8adc-1ddacd6c994a",
+			"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+			"personId": "d379a44a-d9b2-4ad9-8663-9bb05a25b328",
+			"cabin": "10132",
+			"cabinLocation": "deck 4"
+		}]
+	}, {
+		"id": "9826685c-134e-47ea-86bb-7b2b89e760d4",
+		"type": null,
+		"name": "",
+		"recipientTypeId": "8e025435-ef39-4ecc-9320-b8edd6ec661f",
+		"filter": {
+			"type": ["all"],
+			"boardingTime": [{
+				"startTime": 1581699000,
+				"endTime": 1581697000
+			}],
+			"cabin": [{
+				"cabinLocation": "deck1",
+				"cabin": ["1205A", "1205B"]
+			}]
+		}
+	}],
+	"page": {
+		"size": 10,
+		"totalElements": 30,
+		"totalPages": 3,
+		"number": 3
+	}
+}
